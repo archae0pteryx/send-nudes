@@ -4,7 +4,8 @@
 
 ---
 
-How it works:
- - Simply add your github credentials
- - Write out a phrase < 10 characters
- - The script will run for a year and create 20 commits a day so that your timeline will have dark green squares for each day that comprises a letter
+- Create repo for this bitch then add and commit
+- git add remote <URL>
+- git push -u origin master
+- To keep it simple for now you need to ```rm -rf .git``` then ```git init```
+
